@@ -1,4 +1,4 @@
-WeatherApp using Python with OpenWeatherAPI and requests library
+<h1>WeatherApp using Python with OpenWeatherAPI and requests library</h1>
 This script uses the `requests` library to make an HTTP GET request to the OpenWeatherMap API. Here's a breakdown of the main components:
 
 - `import requests`: This line imports the requests library, which is used to send HTTP requests easily.
